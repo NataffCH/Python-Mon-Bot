@@ -8,13 +8,16 @@ Usage Guide
 
 1.  Clone the repository to your local machine:
         
-    `git clone https://github.com/your-username/monero-blockchain-converter.git cd monero-blockchain-converter`
+    ```
+    git clone https://github.com/your-username/monero-blockchain-converter.git
+    cd monero-blockchain-converter
+    ```
     
-2.  Execute the script using the following command:
+3.  Execute the script using the following command:
         
     `python monbot.py`
     
-3.  Upon the first execution, you will be greeted with the following message:
+4.  Upon the first execution, you will be greeted with the following message:
         
     ```
     Monero Browser version 0.0.1, designed by Hussein Aly.
