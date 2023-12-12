@@ -9,7 +9,7 @@ Usage Guide
 1.  Clone the repository to your local machine:
         
     ```
-    git clone https://github.com/your-username/monero-blockchain-converter.git](https://github.com/husseinalygit/MoneroBOT.git
+    git clone https://github.com/husseinalygit/MoneroBOT.git
     cd MoneroBOT
     ```
     
