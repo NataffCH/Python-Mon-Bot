@@ -9,8 +9,8 @@ Usage Guide
 1.  Clone the repository to your local machine:
         
     ```
-    git clone https://github.com/your-username/monero-blockchain-converter.git
-    cd monero-blockchain-converter
+    git clone https://github.com/your-username/monero-blockchain-converter.git](https://github.com/husseinalygit/MoneroBOT.git
+    cd MoneroBOT
     ```
     
 3.  Execute the script using the following command:
